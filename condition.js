@@ -1,5 +1,6 @@
 //login email google facebook
-
+//adding one mroe line
+//new line here for sample
 var email = true;
 var google = false;
 var faceBook = true;
